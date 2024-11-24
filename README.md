@@ -16,5 +16,5 @@ The following images show the results of the filtering process. The first image 
 ![](./result/before_corner1.PNG)
 ### After Filtering
 The filtered point cloud is shown in the following image. The main structures of the building are preserved, and the noise is removed.
-![](./result/after_corner1.png)
+![](./result/after_corner1.PNG)
 
