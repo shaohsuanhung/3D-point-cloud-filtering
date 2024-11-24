@@ -1,0 +1,7 @@
+<launch>
+      <node pkg="test_package" type="downsample" name="Down_Sample"/>
+      <node pkg="test_package" type="outlinerfilter" name="Outline_Filter"/>
+      <node pkg="test_package" type="smootherfilter" name="Smoother_Filter"/>
+      <node pkg="test_package" type="passthrough" name="Passthrough_Filter"/>
+      <!--node pkg="test_package" type="voxel_filter" name="Final_Filter"/-->
+</launch>
